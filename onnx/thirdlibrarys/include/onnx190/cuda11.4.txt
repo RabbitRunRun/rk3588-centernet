@@ -1,0 +1,2 @@
+driver version 470.141.03
+cuda version 11.4
